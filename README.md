@@ -1,2 +1,3 @@
 # MBA
-Aprendendo Git e GitHub
+Aprendendo do Zero Git e GitHub
+Atualizando meu arquivo pela primeira vez.
